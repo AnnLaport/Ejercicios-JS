@@ -1,0 +1,11 @@
+#calculadora{
+    padding: 1rem;
+    background-color: lavender;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#calculadora>div>button{
+
+    padding: 0.6rem;
+}
